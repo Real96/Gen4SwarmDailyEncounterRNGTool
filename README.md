@@ -1,9 +1,7 @@
-# Gen4SwarmDailyEncounterRNGTool
+# Gen4SwarmDailyEncounterRNGTool <img src="https://github.com/user-attachments/assets/534d8380-f6b5-4024-8401-fe86b29bf252" title="Sister"> <img src="https://github.com/user-attachments/assets/14560d58-97d2-4642-9d92-920aa6eb204b" title="TV"> <img src="https://github.com/user-attachments/assets/bc7df9b8-a49c-4215-bbe8-287725997c85" title="Radio">
 This tool will let you RNG abuse Swarm daily encounter in Gen 4 games
 
-
-## Swarm encounter tables <img src="https://github.com/user-attachments/assets/534d8380-f6b5-4024-8401-fe86b29bf252" title="Sister"> <img src="https://github.com/user-attachments/assets/14560d58-97d2-4642-9d92-920aa6eb204b" title="TV"> <img src="https://github.com/user-attachments/assets/bc7df9b8-a49c-4215-bbe8-287725997c85" title="Radio">
-
+## Swarm encounter tables
 <table>
   <tr align="center">
     <td><img src="https://github.com/Real96/DPPtHoneyTreeRNGTool/assets/20956021/cae6e50d-5d3b-4beb-bdea-c3bdfae8940a" title="D" width="10">
