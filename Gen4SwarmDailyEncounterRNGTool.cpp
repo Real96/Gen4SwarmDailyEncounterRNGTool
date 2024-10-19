@@ -88,7 +88,7 @@ void findEncounterSeed(const short limit) {
 
     sanitizeInput<short>("Insert the wanted encounter index: ", encounter, 1, limit);
     sanitizeInput<short>("Insert the min delay: ", minDelay, 600, 9999);
-    sanitizeInput<short>("Insert the min hours (0-23): ", hour, 1, 23);
+    sanitizeInput<short>("Insert the min hours (0-23): ", hour, 0, 23);
     sanitizeInput<short>("Insert the needed MT advances: ", minMTAdvances, 0, 9999);
 
     for (short ab = 0; ab < 256; ab++) {
