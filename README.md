@@ -11,7 +11,7 @@ This tool will let you RNG abuse Swarm daily encounter in Gen 4 games
             <img src="https://github.com/Real96/DPPtHoneyTreeRNGTool/assets/20956021/bbe51f0e-417c-4359-b1c6-3e2e36a4798a" title="P" width="15">
           </td>
           <td>Encounter</td>
-          <td>Location</td>
+          <td width="15">Location</td>
         </tr>
         <tr align="center">
           <td>3,57%</td>
@@ -160,7 +160,7 @@ This tool will let you RNG abuse Swarm daily encounter in Gen 4 games
         <tr align="center">
           <td><img src="https://github.com/Real96/DPPtHoneyTreeRNGTool/assets/20956021/a5509f23-652f-4433-90f8-d97b7881802b" title="Pt" width="15"></td>
           <td>Encounter</td>
-          <td>Location</td>
+          <td width="15">Location</td>
         </tr>
         <tr align="center">
           <td>4,54%</td>
@@ -282,7 +282,7 @@ This tool will let you RNG abuse Swarm daily encounter in Gen 4 games
             <img src="https://github.com/Real96/HGSSRockSmashItemsRNGTool/assets/20956021/5dc9d411-cc38-494e-b8d6-fdca647424d5" title="SS" width="15">
           </td>
           <td colspan="2">Encounter</td>
-          <td>Location</td>
+          <td width="15">Location</td>
         </tr>
         <tr align="center">
           <td>5%</td>
