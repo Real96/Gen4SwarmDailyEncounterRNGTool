@@ -292,30 +292,30 @@ This tool will let you RNG abuse Swarm daily encounter in Gen 4 games
         <tr align="center">
           <td rowspan="2">5%</td>
           <td>
-            <img src="https://github.com/Real96/HGSSRockSmashItemsRNGTool/assets/20956021/73eef51d-77e2-454e-a8ee-db7f962f74fb" title="HG" width="15">
+            <img src="https://github.com/Real96/HGSSRockSmashItemsRNGTool/assets/20956021/73eef51d-77e2-454e-a8ee-db7f962f74fb" title="HG" width="10">
           </td>
           <td>
-            <img src="https://github.com/Real96/HGSSRockSmashItemsRNGTool/assets/20956021/5dc9d411-cc38-494e-b8d6-fdca647424d5" title="SS" width="15">
+            <img src="https://github.com/Real96/HGSSRockSmashItemsRNGTool/assets/20956021/5dc9d411-cc38-494e-b8d6-fdca647424d5" title="SS" width="10">
           </td>
           <td rowspan="2">Route 3</td>
         </tr>
         <tr align="center">
-          <td><img src="https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/versions/generation-viii/icons/343.png" title="Baltoy"></td>
-          <td><img src="https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/versions/generation-viii/icons/316.png" title="Gulpin"></td>
+          <td><img src="https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/versions/generation-viii/icons/343.png" title="Baltoy" width="40"></td>
+          <td><img src="https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/versions/generation-viii/icons/316.png" title="Gulpin" width="40"></td>
         </tr>
         <tr align="center">
           <td rowspan="2">5%</td>
           <td>
-            <img src="https://github.com/Real96/HGSSRockSmashItemsRNGTool/assets/20956021/73eef51d-77e2-454e-a8ee-db7f962f74fb" title="HG" width="15">
+            <img src="https://github.com/Real96/HGSSRockSmashItemsRNGTool/assets/20956021/73eef51d-77e2-454e-a8ee-db7f962f74fb" title="HG" width="10">
           </td>
           <td>
-            <img src="https://github.com/Real96/HGSSRockSmashItemsRNGTool/assets/20956021/5dc9d411-cc38-494e-b8d6-fdca647424d5" title="SS" width="15">
+            <img src="https://github.com/Real96/HGSSRockSmashItemsRNGTool/assets/20956021/5dc9d411-cc38-494e-b8d6-fdca647424d5" title="SS" width="10">
           </td>
           <td rowspan="2">Route 9</td>
         </tr>
         <tr align="center">
-          <td><img src="https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/versions/generation-viii/icons/302.png" title="Sableye"></td>
-          <td><img src="https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/versions/generation-viii/icons/303.png" title="Mawile"></td>
+          <td><img src="https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/versions/generation-viii/icons/302.png" title="Sableye" width="40"></td>
+          <td><img src="https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/versions/generation-viii/icons/303.png" title="Mawile" width="40"></td>
         </tr>
         <tr align="center">
           <td>5%</td>
