@@ -40,8 +40,7 @@ class mt {
             return y;
         }
 
-        uint32_t advance(unsigned long advances)
-        {
+        uint32_t advance(unsigned long advances) {
             unsigned long advance = advances + this->index;
 
             while (advance >= 624)
