@@ -7,7 +7,8 @@ This tool will let you RNG abuse Swarm daily encounter in Gen 4 games
     <td valign="top">
       <table>
         <tr align="center">
-          <td><img src="https://github.com/Real96/DPPtHoneyTreeRNGTool/assets/20956021/cae6e50d-5d3b-4beb-bdea-c3bdfae8940a" title="D" width="15">
+          <td>
+            <img src="https://github.com/Real96/DPPtHoneyTreeRNGTool/assets/20956021/cae6e50d-5d3b-4beb-bdea-c3bdfae8940a" title="D" width="15">
             <img src="https://github.com/Real96/DPPtHoneyTreeRNGTool/assets/20956021/bbe51f0e-417c-4359-b1c6-3e2e36a4798a" title="P" width="15">
           </td>
           <td>Encounter</td>
