@@ -410,7 +410,7 @@ This tool will let you RNG abuse Swarm daily encounter in Gen 4 games
 ## Usage
 1) Search an Initial Seed for a desired Swarm encounter
 2) Hit that Initial Seed
-3) Do the needed MT advances if necessary (in DPPt everytime you flip a the coin is an advancement, in HGSS everytime you make a new group when talking to the group NPC)
+3) Do the needed MT advances if necessary (in DPPt everytime you flip the coin is an advancement, in HGSS everytime you make a new group when talking to the group NPC)
 4) Talk to the group NPC and make a new group (in DPPt it is standing in `Jubilife City` in front of the `Jubilife TV Station`, in HGSS it is inside the `Pokémon School` of `Violet City`)
 5) Save the game and wait for the DS clock to pass midnight
 6) In DPPt talk to your rival's sister or check TV news, in HGSS listen to the `Mary and Oak` transmission in the `Pokémon Talk` radio channel
